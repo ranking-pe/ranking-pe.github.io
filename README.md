@@ -2,7 +2,7 @@
 
 Project website for **Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis**.
 
-Intended URL: https://tianx-ia.github.io/ranking-pe/
+Intended URL: https://ranking-pe.github.io/
 
 ## Local preview
 
