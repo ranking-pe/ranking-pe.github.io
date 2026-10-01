@@ -18,15 +18,16 @@ analytics, external font requests, or third-party JavaScript.
 - `index.html`: authors, affiliations, summary, figures, results, ablation and citation.
 - `style.css`: desktop and mobile layouts.
 - `script.js`: model/metric switching and BibTeX copy.
-- `assets/paper.pdf`: the current preprint PDF.
+- `assets/paper.pdf`: a local copy of the public arXiv PDF (2609.40361v1).
 - `assets/overview.png` and `assets/method.png`: figures rendered from the paper.
 - `assets/results.json`: reported Table 1 means for the two PE backbones.
 
 The starting content is based on the arXiv manuscript source at commit
 `0ae1c6c08d49c9cb23de5be7d59cd57369b25247` (2026-09-28). The website summary
 is condensed from the paper, rather than a verbatim abstract. All paper author
-names, affiliations and the two contact emails are retained. No arXiv identifier,
-code-release URL, or conference acceptance is claimed.
+names, affiliations and the two contact emails are retained. The public preprint
+is available at https://arxiv.org/abs/2609.40361 (2026-09-30). No code-release URL
+or conference acceptance is claimed.
 
 PE results summarize three runs. The displayed Avg columns are unweighted
 averages of the reported disease means. The highlighted 5.8 and 16.2 percentage
